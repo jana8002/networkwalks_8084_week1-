@@ -46,3 +46,7 @@ The main objectives of this project are to:
 - Take a clean VM snapshot for recovery.
 - Document the complete setup process.
 - Prepare the environment for future cybersecurity projects.
+
+---
+
+Thanks to Sir Waqas Karim CCEI and NETWORKWALKS team for guidance and support. Looking forward to week 2.   
